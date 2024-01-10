@@ -3,10 +3,6 @@
   Hello there 👋 I'm ***Wilmer!***
 </h1>
 
-<!--
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=wilzet&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=shaderlab">
--->
-
 <p align='center'>
   <a href='https://learn.microsoft.com/en-us/dotnet/csharp' title='C#'><img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white'/></a>
   <a href='https://www.python.org' title='Python'><img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/></a>
@@ -34,3 +30,13 @@
   <h3>Visitors</h3>
   <a href='https://github.com/wilzet' title='Profile visitors'><img src='https://profile-counter.glitch.me/wilzet/count.svg'/></a><br><br>
 </div>
+
+<!--STATS
+<details>
+  <summary><b>Stats</b></summary>
+  <div align='center'>
+    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api?username=wilzet&show_icons=true&count_private=true&hide_border=true&theme=darcula&bg_color=00000000'/>
+    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=wilzet&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6'/>
+  </div>
+</details>
+-->
