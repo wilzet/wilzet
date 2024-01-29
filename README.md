@@ -11,6 +11,7 @@
   <a href='https://www.r-project.org' title='R'><img src='https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white'/></a>
   <a href='https://www.typescriptlang.org' title='TypeScript'><img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/></a>
   <a href='https://www.rust-lang.org' title='Rust'><img src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white'/></a>
+  <a href='https://www.lua.org/' title='Lua'><img src='https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white'/></a>
 </p>
 
 **About me**
