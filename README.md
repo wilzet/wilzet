@@ -13,6 +13,7 @@
   <a href='https://www.rust-lang.org' title='Rust'><img src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white'/></a>
   <a href='https://www.lua.org/' title='Lua'><img src='https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white'/></a>
   <a href='https://julialang.org/' title='Julia'><img src='https://img.shields.io/badge/julia-%239558B2.svg?style=for-the-badge&logo=julia&logoColor=white'/></a>
+  <a href='https://www.haskell.org/' title='Haskell'><img src='https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white'/></a>
 </p>
 
 **Links**
