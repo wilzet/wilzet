@@ -8,6 +8,8 @@
   <a href='https://www.python.org' title='Python'><img src='https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=white'/></a>
   <a href='https://www.java.com' title='Java'><img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'/></a>
   <a href='https://learn.microsoft.com/en-us/cpp/c-language' title='C'><img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white'/></a>
+  <a href='https://learn.microsoft.com/en-us/cpp/cpp' title='C++'><img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' title='JavaScript'><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/></a>
   <a href='https://www.r-project.org' title='R'><img src='https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white'/></a>
   <a href='https://www.typescriptlang.org' title='TypeScript'><img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/></a>
   <a href='https://www.rust-lang.org' title='Rust'><img src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white'/></a>
