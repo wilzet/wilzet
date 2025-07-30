@@ -26,11 +26,6 @@
 
 ***
 
-<div align='center'>
-  <h3>Visitors</h3>
-  <a href='https://github.com/wilzet' title='Profile visitors'><img src='https://profile-counter.glitch.me/wilzet/count.svg'/></a><br><br>
-</div>
-
 <details>
   <summary><b>Stats</b></summary>
   <div align='center'>
