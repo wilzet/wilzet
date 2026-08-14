@@ -29,8 +29,8 @@
 <details>
   <summary><b>Stats</b></summary>
   <div align='center'>
-    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api?username=wilzet&hide_rank=true&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&title_color=DF682C&ring_color=DF682C'/>
-    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=wilzet&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&title_color=DF682C'/>
+    <img height='50%' width='auto' src='https://github-stats-extended.vercel.app/api?username=wilzet&hide_rank=true&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&title_color=DF682C&ring_color=DF682C'/>
+    <img height='50%' width='auto' src='https://github-stats-extended.vercel.app/api/top-langs/?username=wilzet&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&title_color=DF682C'/>
     <img height='50%' width='auto' src='https://github-readme-activity-graph.vercel.app/graph?username=wilzet&theme=github-compact&title_color=DF682C&area=true&hide_border=true'/>
   </div>
 </details>
